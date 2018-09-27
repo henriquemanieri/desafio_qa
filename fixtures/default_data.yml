@@ -1,0 +1,6 @@
+#Usuario
+data:
+
+  exam_name:
+    valid_exam: 'hemograma'
+    invalid_exam: 'sandy & junior
