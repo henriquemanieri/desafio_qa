@@ -1,6 +1,6 @@
-#Usuario
+#Dados
 data:
 
   exam_name:
     valid_exam: 'hemograma'
-    invalid_exam: 'sandy & junior
+    invalid_exam: 'sandy & junior'
