@@ -19,5 +19,5 @@ Funcionalidade: Pesquisa Exame
 		@exame_invalido
     Cenario: Pesquisa de exame invalido   
         Quando eu acesso a pagina de busca de exames
-        Quando acvessar a tela de busca de exames e buscar o exame "invalid_exam"
+        Quando mostrar a tela de busca de exames e buscar o exame "invalid_exam"
         Entao nao consigo encontrar o exame "invalid_exam" na lista
